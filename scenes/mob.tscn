@@ -57,8 +57,8 @@ metadata/_edit_group_ = true
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 scale = Vector2(0.75, 0.75)
 sprite_frames = SubResource("SpriteFrames_m0elm")
-animation = &"walk"
-frame_progress = 0.0636686
+animation = &"fly"
+frame_progress = 0.989813
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 rotation = -1.5708
