@@ -7,7 +7,7 @@ I'm learning to use Godot and followed the basic game instructions from the docs
 ##How to use
 
 
-Just download firstgame.exe and run it.
+Just download first game.exe and run it.
 
 
 I'm very bad at this game, my highscore is about 25 or so, see if you can beat me :)
