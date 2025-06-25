@@ -4,7 +4,7 @@
 I'm learning to use Godot and followed the basic game instructions from the docs, feel free to play.
 
 
-##How to use
+## How to use
 
 
 Just download first game.exe and run it.
